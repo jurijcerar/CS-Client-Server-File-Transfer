@@ -1,0 +1,3 @@
+Input 1 if you wish to be the receiver and 2 if you wsh to be the sender
+If you choose to be the sender you also have to input the name of the 
+file which you wish to send when asked. Encryption/Decrption made using AES.

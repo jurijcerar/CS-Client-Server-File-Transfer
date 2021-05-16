@@ -1,0 +1,17 @@
+C:\Users\JurijCerar\Projects\hibrid\Hibridno\Hibridno\bin\Debug\netcoreapp3.1\Hibridno.exe
+C:\Users\JurijCerar\Projects\hibrid\Hibridno\Hibridno\bin\Debug\netcoreapp3.1\Hibridno.deps.json
+C:\Users\JurijCerar\Projects\hibrid\Hibridno\Hibridno\bin\Debug\netcoreapp3.1\Hibridno.runtimeconfig.json
+C:\Users\JurijCerar\Projects\hibrid\Hibridno\Hibridno\bin\Debug\netcoreapp3.1\Hibridno.runtimeconfig.dev.json
+C:\Users\JurijCerar\Projects\hibrid\Hibridno\Hibridno\bin\Debug\netcoreapp3.1\Hibridno.dll
+C:\Users\JurijCerar\Projects\hibrid\Hibridno\Hibridno\bin\Debug\netcoreapp3.1\Hibridno.pdb
+C:\Users\JurijCerar\Projects\hibrid\Hibridno\Hibridno\obj\Debug\netcoreapp3.1\Hibridno.csprojAssemblyReference.cache
+C:\Users\JurijCerar\Projects\hibrid\Hibridno\Hibridno\obj\Debug\netcoreapp3.1\Hibridno.AssemblyInfoInputs.cache
+C:\Users\JurijCerar\Projects\hibrid\Hibridno\Hibridno\obj\Debug\netcoreapp3.1\Hibridno.AssemblyInfo.cs
+C:\Users\JurijCerar\Projects\hibrid\Hibridno\Hibridno\obj\Debug\netcoreapp3.1\Hibridno.csproj.CoreCompileInputs.cache
+C:\Users\JurijCerar\Projects\hibrid\Hibridno\Hibridno\obj\Debug\netcoreapp3.1\Hibridno.dll
+C:\Users\JurijCerar\Projects\hibrid\Hibridno\Hibridno\obj\Debug\netcoreapp3.1\Hibridno.pdb
+C:\Users\JurijCerar\Projects\hibrid\Hibridno\Hibridno\obj\Debug\netcoreapp3.1\Hibridno.genruntimeconfig.cache
+C:\Users\JurijCerar\Projects\hibrid\Hibridno\Hibridno\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\JurijCerar\Projects\hibrid\Hibridno\Hibridno\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\JurijCerar\Projects\hibrid\Hibridno\Hibridno\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\JurijCerar\Projects\hibrid\Hibridno\Hibridno\obj\Debug\netcoreapp3.1\Hibridno.csproj.CopyComplete

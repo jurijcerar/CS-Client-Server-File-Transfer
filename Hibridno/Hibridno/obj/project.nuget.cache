@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "+3rLTHMp95YkB4jmD4BdCdkxZ2fjvaoWYQb6NYkQbgaeT4svTSJg8e++KbR6ekjkCGm5EHU4AqqncLmptv0iow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JurijCerar\\Projects\\hibrid\\Hibridno\\Hibridno\\Hibridno.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JurijCerar\\.nuget\\packages\\system.formats.asn1\\5.0.0\\system.formats.asn1.5.0.0.nupkg.sha512",
+    "C:\\Users\\JurijCerar\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512",
+    "C:\\Users\\JurijCerar\\.nuget\\packages\\windowsbase\\4.6.1055\\windowsbase.4.6.1055.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WindowsBase 4.6.1055' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "WindowsBase",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
